@@ -1,0 +1,507 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Projects"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gohbase",
+          "description": "Pure Go client for HBase.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-20T18:15:26Z",
+            "owner": "tsuna",
+            "repo": "gohbase",
+            "stars": 760
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "asynchbase",
+          "description": "Fully asynchronous, non-blocking HBase client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-05-19T06:35:41Z",
+            "owner": "OpenTSDB",
+            "repo": "asynchbase",
+            "stars": 609
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "happybase",
+          "description": "Python client for HBase.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-16T15:58:18Z",
+            "owner": "python-happybase",
+            "repo": "happybase",
+            "stars": 608
+          }
+        }
+      ],
+      "title": "Clients"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Frameworks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "HBase ORM",
+          "description": "A production-grade HBase ORM library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-06-14T22:21:47Z",
+            "owner": "flipkart-incubator",
+            "repo": "hbase-orm",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HEntityDB",
+          "description": "HBase as an entity database.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-09-25T14:35:20Z",
+            "owner": "rayokota",
+            "repo": "hentitydb",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kundera",
+          "description": "JPA client with support for HBase.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-08-09T18:33:22Z",
+            "owner": "impetus-opensource",
+            "repo": "Kundera",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Entity/JPA"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "NebulaGraph",
+          "description": "A high performance distributed Graph database.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-05-18T09:51:50Z",
+            "owner": "vesoft-inc",
+            "repo": "nebula",
+            "stars": 12340
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HugeGraph",
+          "description": "A graph database that supports more than 10+ billion data, high performance and scalability.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T03:35:14Z",
+            "owner": "apache",
+            "repo": "hugegraph",
+            "stars": 3150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HGraphDB",
+          "description": "HBase as a TinkerPop graph database.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-04-29T20:42:49Z",
+            "owner": "rayokota",
+            "repo": "hgraphdb",
+            "stars": 264
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gradoop",
+          "description": "Research framework for scalable graph analytics built on Flink and HBase.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-01-11T23:35:05Z",
+            "owner": "dbs-leipzig",
+            "repo": "gradoop",
+            "stars": 251
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Actionbase",
+          "description": "A database for user interactions (likes, views, follows) represented as graphs, with precomputed reads served in real-time.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-12T08:40:30Z",
+            "owner": "kakao",
+            "repo": "actionbase",
+            "stars": 224
+          }
+        }
+      ],
+      "title": "Graph"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Infrastructure"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Themis",
+          "description": "Cross-row/cross-table transactions on HBase based on Google's Percolator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-04-10T13:51:44Z",
+            "owner": "XiaoMi",
+            "repo": "themis",
+            "stars": 226
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Haeinsa",
+          "description": "Multi-row/multi-table transaction library for HBase.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2017-02-28T07:05:09Z",
+            "owner": "VCNC",
+            "repo": "haeinsa",
+            "stars": 160
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Omid",
+          "description": "Transactional support for HBase.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-05-15T22:39:44Z",
+            "owner": "apache",
+            "repo": "phoenix-omid",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HBase-QoD",
+          "description": "Vector-field consistency for HBase fine-grained transactional inter-DC replication.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-10-04T23:44:46Z",
+            "owner": "algarecu",
+            "repo": "hbase-0.94.8-qod",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Transactions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Flink",
+          "description": "Flink-HBase connector.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T15:33:40Z",
+            "owner": "apache",
+            "repo": "flink",
+            "stars": 26261
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Beam",
+          "description": "Beam HBase integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T23:17:29Z",
+            "owner": "apache",
+            "repo": "beam",
+            "stars": 8639
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Storm",
+          "description": "Storm/Trident integration for HBase.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-11T05:40:22Z",
+            "owner": "apache",
+            "repo": "storm",
+            "stars": 6696
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pig",
+          "description": "Pig HBase integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-05-15T22:40:15Z",
+            "owner": "apache",
+            "repo": "pig",
+            "stars": 687
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Giraph",
+          "description": "Giraph input and output formats for HBase.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2023-04-14T18:34:58Z",
+            "owner": "apache",
+            "repo": "giraph",
+            "stars": 620
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spark",
+          "description": "Spark-HBase connector.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2021-05-10T07:47:58Z",
+            "owner": "hortonworks-spark",
+            "repo": "shc",
+            "stars": 546
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gearpump",
+          "description": "Gearpump integration for HBase.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Scala",
+            "last_commit": "2018-08-27T14:48:42Z",
+            "owner": "apache",
+            "repo": "incubator-retired-gearpump",
+            "stars": 297
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kafka",
+          "description": "HBase Kafka proxy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-07-29T21:02:25Z",
+            "owner": "apache",
+            "repo": "hbase-connectors",
+            "stars": 246
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Presto",
+          "description": "Presto-HBase connector.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-01-02T21:54:46Z",
+            "owner": "analysys",
+            "repo": "presto-hbase-connector",
+            "stars": 241
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Apex",
+          "description": "Apex-HBase connector.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2019-11-13T07:42:03Z",
+            "owner": "apache",
+            "repo": "apex-malhar",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Crunch",
+          "description": "HBase adapters for Crunch.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2021-02-02T17:20:16Z",
+            "owner": "apache",
+            "repo": "crunch",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Elasticsearch",
+          "description": "Elasticsearch import river for HBase.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2014-03-12T06:31:34Z",
+            "owner": "mallocator",
+            "repo": "Elasticsearch-HBase-River",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cascalog",
+          "description": "Wrapper around Cascading.HBase for use in Cascalog.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2017-01-16T18:39:51Z",
+            "owner": "sorenmacbeth",
+            "repo": "hbase-cascalog",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cascading",
+          "description": "HBase adapters for Cascading.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-01-25T08:28:00Z",
+            "owner": "Cascading",
+            "repo": "cascading.hbase",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Integrations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Hannibal",
+          "description": "Tool to monitor and maintain HBase clusters.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2017-12-22T00:22:51Z",
+            "owner": "sentric",
+            "repo": "hannibal",
+            "stars": 172
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "h-rider",
+          "description": "GUI for viewing and manipulating data in HBase.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2017-04-04T12:18:01Z",
+            "owner": "NiceSystems",
+            "repo": "hrider",
+            "stars": 133
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Resources"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:19:18.616Z",
+    "original_repository": "rayokota/awesome-hbase",
+    "original_repository_sha": "4fe4167217f4c0f849c7f81252d15487ba1e2ee4",
+    "enhanced_repository": "enhansome/enhansome-hbase",
+    "enhanced_repository_description": null,
+    "title": "Awesome HBase with stars"
+  }
+}
