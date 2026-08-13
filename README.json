@@ -131,10 +131,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-12T03:35:14Z",
+            "last_commit": "2026-08-13T19:14:06Z",
             "owner": "apache",
             "repo": "hugegraph",
-            "stars": 3150
+            "stars": 3151
           }
         },
         {
@@ -173,7 +173,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-12T08:40:30Z",
+            "last_commit": "2026-08-13T09:37:25Z",
             "owner": "kakao",
             "repo": "actionbase",
             "stars": 224
@@ -260,10 +260,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-12T15:33:40Z",
+            "last_commit": "2026-08-13T17:09:20Z",
             "owner": "apache",
             "repo": "flink",
-            "stars": 26261
+            "stars": 26264
           }
         },
         {
@@ -274,7 +274,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-12T23:17:29Z",
+            "last_commit": "2026-08-13T18:03:08Z",
             "owner": "apache",
             "repo": "beam",
             "stars": 8639
@@ -497,7 +497,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:19:18.616Z",
+    "last_updated": "2026-08-13T19:29:04.108Z",
     "original_repository": "rayokota/awesome-hbase",
     "original_repository_sha": "4fe4167217f4c0f849c7f81252d15487ba1e2ee4",
     "enhanced_repository": "enhansome/enhansome-hbase",
