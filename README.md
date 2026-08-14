@@ -112,9 +112,9 @@ A curated list of awesome HBase projects and resources.
 
 ### Integrations
 
-* [Flink](https://github.com/apache/flink/tree/master/flink-connectors/flink-connector-hbase-2.2) ⭐ 26,264 | 🐛 382 | 🌐 Java | 📅 2026-08-13 - Flink-HBase connector.
-* [Beam](https://github.com/apache/beam/tree/master/sdks/java/io/hbase) ⭐ 8,639 | 🐛 3,982 | 🌐 Java | 📅 2026-08-13 - Beam HBase integration.
-* [Storm](https://github.com/apache/storm/tree/master/external/storm-hbase) ⭐ 6,696 | 🐛 37 | 🌐 Java | 📅 2026-08-11 - Storm/Trident integration for HBase.
+* [Flink](https://github.com/apache/flink/tree/master/flink-connectors/flink-connector-hbase-2.2) ⭐ 26,262 | 🐛 379 | 🌐 Java | 📅 2026-08-14 - Flink-HBase connector.
+* [Beam](https://github.com/apache/beam/tree/master/sdks/java/io/hbase) ⭐ 8,643 | 🐛 3,983 | 🌐 Java | 📅 2026-08-14 - Beam HBase integration.
+* [Storm](https://github.com/apache/storm/tree/master/external/storm-hbase) ⭐ 6,695 | 🐛 37 | 🌐 Java | 📅 2026-08-11 - Storm/Trident integration for HBase.
 * [Pig](https://github.com/apache/pig/tree/trunk/src/org/apache/pig/backend/hadoop/hbase) ⭐ 687 | 🐛 10 | 🌐 Java | 📅 2026-05-15 - Pig HBase integration.
 * [Giraph](https://github.com/apache/giraph/tree/trunk/giraph-hbase) ⚠️ Archived - Giraph input and output formats for HBase.
 * [Spark](https://github.com/hortonworks-spark/shc) ⭐ 546 | 🐛 164 | 🌐 Scala | 📅 2021-05-10 - Spark-HBase connector.
@@ -190,4 +190,4 @@ A curated list of awesome HBase projects and resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
