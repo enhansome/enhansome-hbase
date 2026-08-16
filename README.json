@@ -120,7 +120,7 @@
             "last_commit": "2026-05-18T09:51:50Z",
             "owner": "vesoft-inc",
             "repo": "nebula",
-            "stars": 12342
+            "stars": 12346
           }
         },
         {
@@ -131,10 +131,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T19:14:06Z",
+            "last_commit": "2026-08-15T18:57:27Z",
             "owner": "apache",
             "repo": "hugegraph",
-            "stars": 3151
+            "stars": 3152
           }
         },
         {
@@ -176,7 +176,7 @@
             "last_commit": "2026-08-13T09:37:25Z",
             "owner": "kakao",
             "repo": "actionbase",
-            "stars": 224
+            "stars": 225
           }
         }
       ],
@@ -263,7 +263,7 @@
             "last_commit": "2026-08-14T21:08:44Z",
             "owner": "apache",
             "repo": "flink",
-            "stars": 26262
+            "stars": 26265
           }
         },
         {
@@ -274,10 +274,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-15T18:04:24Z",
+            "last_commit": "2026-08-16T18:17:06Z",
             "owner": "apache",
             "repo": "beam",
-            "stars": 8642
+            "stars": 8643
           }
         },
         {
@@ -291,7 +291,7 @@
             "last_commit": "2026-08-11T05:40:22Z",
             "owner": "apache",
             "repo": "storm",
-            "stars": 6696
+            "stars": 6698
           }
         },
         {
@@ -497,7 +497,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T18:50:25.753Z",
+    "last_updated": "2026-08-16T18:49:30.643Z",
     "original_repository": "rayokota/awesome-hbase",
     "original_repository_sha": "4fe4167217f4c0f849c7f81252d15487ba1e2ee4",
     "enhanced_repository": "enhansome/enhansome-hbase",
