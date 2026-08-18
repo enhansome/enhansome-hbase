@@ -120,7 +120,7 @@
             "last_commit": "2026-05-18T09:51:50Z",
             "owner": "vesoft-inc",
             "repo": "nebula",
-            "stars": 12348
+            "stars": 12350
           }
         },
         {
@@ -131,10 +131,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-17T15:39:57Z",
+            "last_commit": "2026-08-18T05:30:27Z",
             "owner": "apache",
             "repo": "hugegraph",
-            "stars": 3152
+            "stars": 3154
           }
         },
         {
@@ -260,7 +260,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-17T11:10:47Z",
+            "last_commit": "2026-08-18T17:50:32Z",
             "owner": "apache",
             "repo": "flink",
             "stars": 26269
@@ -274,10 +274,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-17T18:51:14Z",
+            "last_commit": "2026-08-18T17:50:35Z",
             "owner": "apache",
             "repo": "beam",
-            "stars": 8645
+            "stars": 8646
           }
         },
         {
@@ -497,7 +497,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T19:01:06.131Z",
+    "last_updated": "2026-08-18T19:00:20.593Z",
     "original_repository": "rayokota/awesome-hbase",
     "original_repository_sha": "4fe4167217f4c0f849c7f81252d15487ba1e2ee4",
     "enhanced_repository": "enhansome/enhansome-hbase",
