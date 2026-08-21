@@ -123,7 +123,7 @@
                     "last_commit": "2026-05-18T09:51:50Z",
                     "owner": "vesoft-inc",
                     "repo": "nebula",
-                    "stars": 12353
+                    "stars": 12355
                   }
                 },
                 {
@@ -138,7 +138,7 @@
                     "last_commit": "2026-08-18T05:30:27Z",
                     "owner": "apache",
                     "repo": "hugegraph",
-                    "stars": 3155
+                    "stars": 3154
                   }
                 },
                 {
@@ -281,7 +281,7 @@
                 "archived": false,
                 "id": 20587599,
                 "language": "Java",
-                "last_commit": "2026-08-20T15:43:18Z",
+                "last_commit": "2026-08-21T14:23:59Z",
                 "owner": "apache",
                 "repo": "flink",
                 "stars": 26273
@@ -296,10 +296,10 @@
                 "archived": false,
                 "id": 50904245,
                 "language": "Java",
-                "last_commit": "2026-08-20T18:47:44Z",
+                "last_commit": "2026-08-21T17:50:38Z",
                 "owner": "apache",
                 "repo": "beam",
-                "stars": 8647
+                "stars": 8648
               }
             },
             {
@@ -311,7 +311,7 @@
                 "archived": false,
                 "id": 14135470,
                 "language": "Java",
-                "last_commit": "2026-08-20T10:06:23Z",
+                "last_commit": "2026-08-21T13:16:34Z",
                 "owner": "apache",
                 "repo": "storm",
                 "stars": 6698
@@ -329,7 +329,7 @@
                 "last_commit": "2026-05-15T22:40:15Z",
                 "owner": "apache",
                 "repo": "pig",
-                "stars": 687
+                "stars": 686
               }
             },
             {
@@ -386,7 +386,7 @@
                 "archived": false,
                 "id": 143078926,
                 "language": "Scala",
-                "last_commit": "2026-07-29T21:02:25Z",
+                "last_commit": "2026-08-21T14:41:19Z",
                 "owner": "apache",
                 "repo": "hbase-connectors",
                 "stars": 246
@@ -529,7 +529,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T19:04:02.359Z",
+    "last_updated": "2026-08-21T19:00:08.246Z",
     "original_repository": "rayokota/awesome-hbase",
     "original_repository_id": 98746000,
     "original_repository_sha": "4fe4167217f4c0f849c7f81252d15487ba1e2ee4",
