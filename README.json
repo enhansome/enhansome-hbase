@@ -123,7 +123,7 @@
                     "last_commit": "2026-05-18T09:51:50Z",
                     "owner": "vesoft-inc",
                     "repo": "nebula",
-                    "stars": 12355
+                    "stars": 12357
                   }
                 },
                 {
@@ -138,7 +138,7 @@
                     "last_commit": "2026-08-18T05:30:27Z",
                     "owner": "apache",
                     "repo": "hugegraph",
-                    "stars": 3154
+                    "stars": 3155
                   }
                 },
                 {
@@ -281,10 +281,10 @@
                 "archived": false,
                 "id": 20587599,
                 "language": "Java",
-                "last_commit": "2026-08-21T14:23:59Z",
+                "last_commit": "2026-08-22T16:48:55Z",
                 "owner": "apache",
                 "repo": "flink",
-                "stars": 26273
+                "stars": 26277
               }
             },
             {
@@ -296,10 +296,10 @@
                 "archived": false,
                 "id": 50904245,
                 "language": "Java",
-                "last_commit": "2026-08-21T17:50:38Z",
+                "last_commit": "2026-08-22T18:34:31Z",
                 "owner": "apache",
                 "repo": "beam",
-                "stars": 8648
+                "stars": 8647
               }
             },
             {
@@ -311,7 +311,7 @@
                 "archived": false,
                 "id": 14135470,
                 "language": "Java",
-                "last_commit": "2026-08-21T13:16:34Z",
+                "last_commit": "2026-08-22T18:45:01Z",
                 "owner": "apache",
                 "repo": "storm",
                 "stars": 6698
@@ -529,7 +529,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T19:00:08.246Z",
+    "last_updated": "2026-08-22T18:51:30.354Z",
     "original_repository": "rayokota/awesome-hbase",
     "original_repository_id": 98746000,
     "original_repository_sha": "4fe4167217f4c0f849c7f81252d15487ba1e2ee4",
