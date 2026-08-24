@@ -61,6 +61,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "HDocDB",
+                  "description": "HBase as a JSON document database.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 51400586,
+                    "language": "Java",
+                    "last_commit": "2023-06-14T22:51:31Z",
+                    "owner": "rayokota",
+                    "repo": "hdocdb",
+                    "stars": 27
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Document"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "HBase ORM",
                   "description": "A production-grade HBase ORM library.",
                   "children": [],
@@ -123,7 +145,7 @@
                     "last_commit": "2026-05-18T09:51:50Z",
                     "owner": "vesoft-inc",
                     "repo": "nebula",
-                    "stars": 12359
+                    "stars": 12362
                   }
                 },
                 {
@@ -138,7 +160,7 @@
                     "last_commit": "2026-08-18T05:30:27Z",
                     "owner": "apache",
                     "repo": "hugegraph",
-                    "stars": 3154
+                    "stars": 3155
                   }
                 },
                 {
@@ -198,6 +220,28 @@
         },
         {
           "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "hindex",
+                  "description": "Secondary index for HBase.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 11974846,
+                    "language": "Java",
+                    "last_commit": "2017-05-18T15:25:10Z",
+                    "owner": "Huawei-Hadoop",
+                    "repo": "hindex",
+                    "stars": 589
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Secondary Indices"
+            },
             {
               "children": [
                 {
@@ -281,10 +325,10 @@
                 "archived": false,
                 "id": 20587599,
                 "language": "Java",
-                "last_commit": "2026-08-23T14:18:59Z",
+                "last_commit": "2026-08-24T14:31:09Z",
                 "owner": "apache",
                 "repo": "flink",
-                "stars": 26280
+                "stars": 26288
               }
             },
             {
@@ -296,7 +340,7 @@
                 "archived": false,
                 "id": 50904245,
                 "language": "Java",
-                "last_commit": "2026-08-23T11:43:07Z",
+                "last_commit": "2026-08-24T14:29:08Z",
                 "owner": "apache",
                 "repo": "beam",
                 "stars": 8647
@@ -311,7 +355,7 @@
                 "archived": false,
                 "id": 14135470,
                 "language": "Java",
-                "last_commit": "2026-08-23T18:21:11Z",
+                "last_commit": "2026-08-24T11:44:02Z",
                 "owner": "apache",
                 "repo": "storm",
                 "stars": 6698
@@ -523,13 +567,35 @@
           "description": null,
           "node_type": "group",
           "title": "Tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "HubSpot HBase support",
+              "description": "Configs and tools for HBase at HubSpot, including Hystrix integration and coprocessors.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 19223789,
+                "language": "Java",
+                "last_commit": "2014-05-09T16:09:02Z",
+                "owner": "HubSpot",
+                "repo": "hbase-support",
+                "stars": 17
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Miscellaneous"
         }
       ],
       "title": "Projects"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T18:50:54.155Z",
+    "last_updated": "2026-08-24T14:33:08.314Z",
     "original_repository": "rayokota/awesome-hbase",
     "original_repository_id": 98746000,
     "original_repository_sha": "4fe4167217f4c0f849c7f81252d15487ba1e2ee4",
