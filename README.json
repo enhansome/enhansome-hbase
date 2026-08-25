@@ -157,10 +157,10 @@
                     "archived": false,
                     "id": 141376301,
                     "language": "Java",
-                    "last_commit": "2026-08-24T18:43:31Z",
+                    "last_commit": "2026-08-25T17:52:55Z",
                     "owner": "apache",
                     "repo": "hugegraph",
-                    "stars": 3155
+                    "stars": 3156
                   }
                 },
                 {
@@ -325,7 +325,7 @@
                 "archived": false,
                 "id": 20587599,
                 "language": "Java",
-                "last_commit": "2026-08-25T02:14:12Z",
+                "last_commit": "2026-08-25T15:47:13Z",
                 "owner": "apache",
                 "repo": "flink",
                 "stars": 26289
@@ -340,10 +340,10 @@
                 "archived": false,
                 "id": 50904245,
                 "language": "Java",
-                "last_commit": "2026-08-25T05:14:18Z",
+                "last_commit": "2026-08-25T17:13:25Z",
                 "owner": "apache",
                 "repo": "beam",
-                "stars": 8647
+                "stars": 8648
               }
             },
             {
@@ -355,7 +355,7 @@
                 "archived": false,
                 "id": 14135470,
                 "language": "Java",
-                "last_commit": "2026-08-24T11:44:02Z",
+                "last_commit": "2026-08-25T07:20:11Z",
                 "owner": "apache",
                 "repo": "storm",
                 "stars": 6698
@@ -595,7 +595,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:25:22.340Z",
+    "last_updated": "2026-08-25T19:01:22.996Z",
     "original_repository": "rayokota/awesome-hbase",
     "original_repository_id": 98746000,
     "original_repository_sha": "4fe4167217f4c0f849c7f81252d15487ba1e2ee4",
