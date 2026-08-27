@@ -145,7 +145,7 @@
                     "last_commit": "2026-05-18T09:51:50Z",
                     "owner": "vesoft-inc",
                     "repo": "nebula",
-                    "stars": 12365
+                    "stars": 12366
                   }
                 },
                 {
@@ -202,7 +202,7 @@
                     "archived": false,
                     "id": 1093894840,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-26T09:25:45Z",
+                    "last_commit": "2026-08-27T10:04:56Z",
                     "owner": "kakao",
                     "repo": "actionbase",
                     "stars": 225
@@ -325,10 +325,10 @@
                 "archived": false,
                 "id": 20587599,
                 "language": "Java",
-                "last_commit": "2026-08-26T10:45:27Z",
+                "last_commit": "2026-08-27T10:02:02Z",
                 "owner": "apache",
                 "repo": "flink",
-                "stars": 26293
+                "stars": 26295
               }
             },
             {
@@ -340,10 +340,10 @@
                 "archived": false,
                 "id": 50904245,
                 "language": "Java",
-                "last_commit": "2026-08-26T20:03:23Z",
+                "last_commit": "2026-08-27T11:44:46Z",
                 "owner": "apache",
                 "repo": "beam",
-                "stars": 8650
+                "stars": 8651
               }
             },
             {
@@ -355,7 +355,7 @@
                 "archived": false,
                 "id": 14135470,
                 "language": "Java",
-                "last_commit": "2026-08-25T07:20:11Z",
+                "last_commit": "2026-08-27T08:05:42Z",
                 "owner": "apache",
                 "repo": "storm",
                 "stars": 6698
@@ -560,7 +560,7 @@
                 "last_commit": "2017-04-04T12:18:01Z",
                 "owner": "NiceSystems",
                 "repo": "hrider",
-                "stars": 133
+                "stars": 132
               }
             }
           ],
@@ -595,9 +595,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T20:09:45.309Z",
-    "original_repository": "rayokota/awesome-hbase",
-    "original_repository_id": 98746000,
+    "last_updated": "2026-08-27T11:45:54.958Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 98746000,
+      "language": null,
+      "last_commit": "2026-05-18T01:23:25Z",
+      "owner": "rayokota",
+      "repo": "awesome-hbase",
+      "stars": 180
+    },
     "original_repository_sha": "4fe4167217f4c0f849c7f81252d15487ba1e2ee4",
     "enhanced_repository": "enhansome/enhansome-hbase",
     "enhanced_repository_description": null,
