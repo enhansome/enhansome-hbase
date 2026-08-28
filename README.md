@@ -72,7 +72,7 @@ A curated list of awesome HBase projects and resources.
 #### Graph
 
 * [NebulaGraph](https://github.com/vesoft-inc/nebula) ⭐ 12,366 | 🐛 678 | 🌐 C++ | 📅 2026-05-18 - A high performance distributed Graph database.
-* [HugeGraph](https://github.com/apache/incubator-hugegraph) ⭐ 3,157 | 🐛 390 | 🌐 Java | 📅 2026-08-26 - A graph database that supports more than 10+ billion data, high performance and scalability.
+* [HugeGraph](https://github.com/apache/incubator-hugegraph) ⭐ 3,158 | 🐛 390 | 🌐 Java | 📅 2026-08-26 - A graph database that supports more than 10+ billion data, high performance and scalability.
 * [HGraphDB](https://github.com/rayokota/hgraphdb) ⭐ 264 | 🐛 12 | 🌐 Java | 📅 2026-04-29 - HBase as a TinkerPop graph database.
 * [Gradoop](https://github.com/dbs-leipzig/gradoop) ⭐ 251 | 🐛 86 | 🌐 Java | 📅 2026-01-11 - Research framework for scalable graph analytics built on Flink and HBase.
 * [Actionbase](https://github.com/kakao/actionbase) ⭐ 225 | 🐛 39 | 🌐 Kotlin | 📅 2026-08-27 - A database for user interactions (likes, views, follows) represented as graphs, with precomputed reads served in real-time.
@@ -112,9 +112,9 @@ A curated list of awesome HBase projects and resources.
 
 ### Integrations
 
-* [Flink](https://github.com/apache/flink/tree/master/flink-connectors/flink-connector-hbase-2.2) ⭐ 26,295 | 🐛 372 | 🌐 Java | 📅 2026-08-27 - Flink-HBase connector.
-* [Beam](https://github.com/apache/beam/tree/master/sdks/java/io/hbase) ⭐ 8,651 | 🐛 3,972 | 🌐 Java | 📅 2026-08-27 - Beam HBase integration.
-* [Storm](https://github.com/apache/storm/tree/master/external/storm-hbase) ⭐ 6,698 | 🐛 35 | 🌐 Java | 📅 2026-08-27 - Storm/Trident integration for HBase.
+* [Flink](https://github.com/apache/flink/tree/master/flink-connectors/flink-connector-hbase-2.2) ⭐ 26,298 | 🐛 369 | 🌐 Java | 📅 2026-08-27 - Flink-HBase connector.
+* [Beam](https://github.com/apache/beam/tree/master/sdks/java/io/hbase) ⭐ 8,653 | 🐛 3,967 | 🌐 Java | 📅 2026-08-28 - Beam HBase integration.
+* [Storm](https://github.com/apache/storm/tree/master/external/storm-hbase) ⭐ 6,698 | 🐛 36 | 🌐 Java | 📅 2026-08-27 - Storm/Trident integration for HBase.
 * [Pig](https://github.com/apache/pig/tree/trunk/src/org/apache/pig/backend/hadoop/hbase) ⭐ 686 | 🐛 10 | 🌐 Java | 📅 2026-05-15 - Pig HBase integration.
 * [Giraph](https://github.com/apache/giraph/tree/trunk/giraph-hbase) ⚠️ Archived - Giraph input and output formats for HBase.
 * [Spark](https://github.com/hortonworks-spark/shc) ⭐ 546 | 🐛 164 | 🌐 Scala | 📅 2021-05-10 - Spark-HBase connector.
@@ -190,4 +190,4 @@ A curated list of awesome HBase projects and resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._

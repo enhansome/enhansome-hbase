@@ -160,7 +160,7 @@
                     "last_commit": "2026-08-26T13:56:10Z",
                     "owner": "apache",
                     "repo": "hugegraph",
-                    "stars": 3157
+                    "stars": 3158
                   }
                 },
                 {
@@ -325,10 +325,10 @@
                 "archived": false,
                 "id": 20587599,
                 "language": "Java",
-                "last_commit": "2026-08-27T10:02:02Z",
+                "last_commit": "2026-08-27T20:42:35Z",
                 "owner": "apache",
                 "repo": "flink",
-                "stars": 26295
+                "stars": 26298
               }
             },
             {
@@ -340,10 +340,10 @@
                 "archived": false,
                 "id": 50904245,
                 "language": "Java",
-                "last_commit": "2026-08-27T11:44:46Z",
+                "last_commit": "2026-08-28T01:53:03Z",
                 "owner": "apache",
                 "repo": "beam",
-                "stars": 8651
+                "stars": 8653
               }
             },
             {
@@ -595,7 +595,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:45:54.958Z",
+    "last_updated": "2026-08-28T02:12:09.021Z",
     "original_repository_info": {
       "archived": false,
       "id": 98746000,
