@@ -18,7 +18,8 @@
                 "owner": "tsuna",
                 "repo": "gohbase",
                 "stars": 760
-              }
+              },
+              "first_seen": "2026-08-29T01:46:49.933Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "OpenTSDB",
                 "repo": "asynchbase",
                 "stars": 609
-              }
+              },
+              "first_seen": "2026-08-29T01:46:49.933Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "python-happybase",
                 "repo": "happybase",
                 "stars": 608
-              }
+              },
+              "first_seen": "2026-08-29T01:46:49.933Z"
             }
           ],
           "description": null,
@@ -72,7 +75,8 @@
                     "owner": "rayokota",
                     "repo": "hdocdb",
                     "stars": 27
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:46:49.933Z"
                 }
               ],
               "description": null,
@@ -93,8 +97,9 @@
                     "last_commit": "2023-06-14T22:21:47Z",
                     "owner": "flipkart-incubator",
                     "repo": "hbase-orm",
-                    "stars": 83
-                  }
+                    "stars": 84
+                  },
+                  "first_seen": "2026-08-29T01:46:49.933Z"
                 },
                 {
                   "node_type": "item",
@@ -109,7 +114,8 @@
                     "owner": "rayokota",
                     "repo": "hentitydb",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:46:49.933Z"
                 },
                 {
                   "node_type": "item",
@@ -124,7 +130,8 @@
                     "owner": "impetus-opensource",
                     "repo": "Kundera",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:46:49.933Z"
                 }
               ],
               "description": null,
@@ -145,8 +152,9 @@
                     "last_commit": "2026-05-18T09:51:50Z",
                     "owner": "vesoft-inc",
                     "repo": "nebula",
-                    "stars": 12366
-                  }
+                    "stars": 12368
+                  },
+                  "first_seen": "2026-08-29T01:46:49.933Z"
                 },
                 {
                   "node_type": "item",
@@ -157,11 +165,12 @@
                     "archived": false,
                     "id": 141376301,
                     "language": "Java",
-                    "last_commit": "2026-08-26T13:56:10Z",
+                    "last_commit": "2026-08-28T20:05:52Z",
                     "owner": "apache",
                     "repo": "hugegraph",
-                    "stars": 3158
-                  }
+                    "stars": 3159
+                  },
+                  "first_seen": "2026-08-29T01:46:49.933Z"
                 },
                 {
                   "node_type": "item",
@@ -176,7 +185,8 @@
                     "owner": "rayokota",
                     "repo": "hgraphdb",
                     "stars": 264
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:46:49.933Z"
                 },
                 {
                   "node_type": "item",
@@ -191,7 +201,8 @@
                     "owner": "dbs-leipzig",
                     "repo": "gradoop",
                     "stars": 251
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:46:49.933Z"
                 },
                 {
                   "node_type": "item",
@@ -206,7 +217,8 @@
                     "owner": "kakao",
                     "repo": "actionbase",
                     "stars": 225
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:46:49.933Z"
                 }
               ],
               "description": null,
@@ -235,7 +247,8 @@
                     "owner": "Huawei-Hadoop",
                     "repo": "hindex",
                     "stars": 589
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:46:49.933Z"
                 }
               ],
               "description": null,
@@ -257,7 +270,8 @@
                     "owner": "XiaoMi",
                     "repo": "themis",
                     "stars": 226
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:46:49.933Z"
                 },
                 {
                   "node_type": "item",
@@ -272,7 +286,8 @@
                     "owner": "VCNC",
                     "repo": "haeinsa",
                     "stars": 160
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:46:49.933Z"
                 },
                 {
                   "node_type": "item",
@@ -287,7 +302,8 @@
                     "owner": "apache",
                     "repo": "phoenix-omid",
                     "stars": 93
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:46:49.933Z"
                 },
                 {
                   "node_type": "item",
@@ -302,7 +318,8 @@
                     "owner": "algarecu",
                     "repo": "hbase-0.94.8-qod",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:46:49.933Z"
                 }
               ],
               "description": null,
@@ -325,11 +342,12 @@
                 "archived": false,
                 "id": 20587599,
                 "language": "Java",
-                "last_commit": "2026-08-27T20:42:35Z",
+                "last_commit": "2026-08-28T15:18:25Z",
                 "owner": "apache",
                 "repo": "flink",
-                "stars": 26298
-              }
+                "stars": 26302
+              },
+              "first_seen": "2026-08-29T01:46:49.933Z"
             },
             {
               "node_type": "item",
@@ -340,11 +358,12 @@
                 "archived": false,
                 "id": 50904245,
                 "language": "Java",
-                "last_commit": "2026-08-28T01:53:03Z",
+                "last_commit": "2026-08-29T00:39:00Z",
                 "owner": "apache",
                 "repo": "beam",
                 "stars": 8653
-              }
+              },
+              "first_seen": "2026-08-29T01:46:49.933Z"
             },
             {
               "node_type": "item",
@@ -355,11 +374,12 @@
                 "archived": false,
                 "id": 14135470,
                 "language": "Java",
-                "last_commit": "2026-08-27T08:05:42Z",
+                "last_commit": "2026-08-28T07:34:40Z",
                 "owner": "apache",
                 "repo": "storm",
                 "stars": 6698
-              }
+              },
+              "first_seen": "2026-08-29T01:46:49.933Z"
             },
             {
               "node_type": "item",
@@ -374,7 +394,8 @@
                 "owner": "apache",
                 "repo": "pig",
                 "stars": 686
-              }
+              },
+              "first_seen": "2026-08-29T01:46:49.933Z"
             },
             {
               "node_type": "item",
@@ -389,7 +410,8 @@
                 "owner": "apache",
                 "repo": "giraph",
                 "stars": 620
-              }
+              },
+              "first_seen": "2026-08-29T01:46:49.933Z"
             },
             {
               "node_type": "item",
@@ -404,7 +426,8 @@
                 "owner": "hortonworks-spark",
                 "repo": "shc",
                 "stars": 546
-              }
+              },
+              "first_seen": "2026-08-29T01:46:49.933Z"
             },
             {
               "node_type": "item",
@@ -419,7 +442,8 @@
                 "owner": "apache",
                 "repo": "incubator-retired-gearpump",
                 "stars": 297
-              }
+              },
+              "first_seen": "2026-08-29T01:46:49.933Z"
             },
             {
               "node_type": "item",
@@ -430,11 +454,12 @@
                 "archived": false,
                 "id": 143078926,
                 "language": "Scala",
-                "last_commit": "2026-08-26T11:02:09Z",
+                "last_commit": "2026-08-28T09:13:30Z",
                 "owner": "apache",
                 "repo": "hbase-connectors",
                 "stars": 246
-              }
+              },
+              "first_seen": "2026-08-29T01:46:49.933Z"
             },
             {
               "node_type": "item",
@@ -449,7 +474,8 @@
                 "owner": "analysys",
                 "repo": "presto-hbase-connector",
                 "stars": 241
-              }
+              },
+              "first_seen": "2026-08-29T01:46:49.933Z"
             },
             {
               "node_type": "item",
@@ -464,7 +490,8 @@
                 "owner": "apache",
                 "repo": "apex-malhar",
                 "stars": 135
-              }
+              },
+              "first_seen": "2026-08-29T01:46:49.933Z"
             },
             {
               "node_type": "item",
@@ -479,7 +506,8 @@
                 "owner": "apache",
                 "repo": "crunch",
                 "stars": 110
-              }
+              },
+              "first_seen": "2026-08-29T01:46:49.933Z"
             },
             {
               "node_type": "item",
@@ -494,7 +522,8 @@
                 "owner": "mallocator",
                 "repo": "Elasticsearch-HBase-River",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-29T01:46:49.933Z"
             },
             {
               "node_type": "item",
@@ -509,7 +538,8 @@
                 "owner": "sorenmacbeth",
                 "repo": "hbase-cascalog",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-29T01:46:49.933Z"
             },
             {
               "node_type": "item",
@@ -524,7 +554,8 @@
                 "owner": "Cascading",
                 "repo": "cascading.hbase",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-29T01:46:49.933Z"
             }
           ],
           "description": null,
@@ -546,7 +577,8 @@
                 "owner": "sentric",
                 "repo": "hannibal",
                 "stars": 172
-              }
+              },
+              "first_seen": "2026-08-29T01:46:49.933Z"
             },
             {
               "node_type": "item",
@@ -561,7 +593,8 @@
                 "owner": "NiceSystems",
                 "repo": "hrider",
                 "stars": 132
-              }
+              },
+              "first_seen": "2026-08-29T01:46:49.933Z"
             }
           ],
           "description": null,
@@ -583,7 +616,8 @@
                 "owner": "HubSpot",
                 "repo": "hbase-support",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-29T01:46:49.933Z"
             }
           ],
           "description": null,
@@ -595,7 +629,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T02:12:09.021Z",
+    "last_updated": "2026-08-29T01:46:49.933Z",
     "original_repository_info": {
       "archived": false,
       "id": 98746000,
