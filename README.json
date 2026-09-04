@@ -207,7 +207,7 @@
                     "open_issues": 678,
                     "owner": "vesoft-inc",
                     "repo": "nebula",
-                    "stars": 12374,
+                    "stars": 12376,
                     "topics": [
                       "big-data",
                       "cpp",
@@ -493,11 +493,11 @@
                 "id": 20587599,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-03T18:50:49Z",
-                "open_issues": 385,
+                "last_commit": "2026-09-04T16:19:32Z",
+                "open_issues": 378,
                 "owner": "apache",
                 "repo": "flink",
-                "stars": 26325,
+                "stars": 26326,
                 "topics": [
                   "big-data",
                   "flink",
@@ -521,8 +521,8 @@
                 "id": 50904245,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-03T21:03:27Z",
-                "open_issues": 3957,
+                "last_commit": "2026-09-04T19:12:00Z",
+                "open_issues": 3966,
                 "owner": "apache",
                 "repo": "beam",
                 "stars": 8658,
@@ -551,11 +551,11 @@
                 "id": 14135470,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-03T10:37:53Z",
-                "open_issues": 34,
+                "last_commit": "2026-09-04T13:45:06Z",
+                "open_issues": 35,
                 "owner": "apache",
                 "repo": "storm",
-                "stars": 6697,
+                "stars": 6696,
                 "topics": [
                   "apache",
                   "distributed",
@@ -907,7 +907,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T21:06:46.317Z",
+    "last_updated": "2026-09-04T20:49:23.806Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome HBase projects and resources.",
