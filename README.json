@@ -28,27 +28,6 @@
             },
             {
               "node_type": "item",
-              "title": "asynchbase",
-              "description": "Fully asynchronous, non-blocking HBase client.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A fully asynchronous, non-blocking, thread-safe, high-performance HBase client.",
-                "homepage": "https://github.com/OpenTSDB/asynchbase",
-                "id": 865411,
-                "language": "Java",
-                "license": "BSD-3-Clause",
-                "last_commit": "2023-05-19T06:35:41Z",
-                "open_issues": 56,
-                "owner": "OpenTSDB",
-                "repo": "asynchbase",
-                "stars": 609,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T01:46:49.933Z"
-            },
-            {
-              "node_type": "item",
               "title": "happybase",
               "description": "Python client for HBase.",
               "children": [],
@@ -64,6 +43,27 @@
                 "owner": "python-happybase",
                 "repo": "happybase",
                 "stars": 609,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T01:46:49.933Z"
+            },
+            {
+              "node_type": "item",
+              "title": "asynchbase",
+              "description": "Fully asynchronous, non-blocking HBase client.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A fully asynchronous, non-blocking, thread-safe, high-performance HBase client.",
+                "homepage": "https://github.com/OpenTSDB/asynchbase",
+                "id": 865411,
+                "language": "Java",
+                "license": "BSD-3-Clause",
+                "last_commit": "2023-05-19T06:35:41Z",
+                "open_issues": 56,
+                "owner": "OpenTSDB",
+                "repo": "asynchbase",
+                "stars": 608,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:46:49.933Z"
@@ -207,7 +207,7 @@
                     "open_issues": 678,
                     "owner": "vesoft-inc",
                     "repo": "nebula",
-                    "stars": 12376,
+                    "stars": 12377,
                     "topics": [
                       "big-data",
                       "cpp",
@@ -243,7 +243,7 @@
                     "language": "Java",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-03T12:50:24Z",
-                    "open_issues": 368,
+                    "open_issues": 370,
                     "owner": "apache",
                     "repo": "hugegraph",
                     "stars": 3168,
@@ -328,7 +328,7 @@
                     "open_issues": 0,
                     "owner": "kakao",
                     "repo": "actionbase",
-                    "stars": 225,
+                    "stars": 226,
                     "topics": [
                       "database",
                       "graphdb",
@@ -493,11 +493,11 @@
                 "id": 20587599,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-04T16:19:32Z",
+                "last_commit": "2026-09-05T20:23:43Z",
                 "open_issues": 378,
                 "owner": "apache",
                 "repo": "flink",
-                "stars": 26326,
+                "stars": 26325,
                 "topics": [
                   "big-data",
                   "flink",
@@ -521,11 +521,11 @@
                 "id": 50904245,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-04T19:12:00Z",
-                "open_issues": 3966,
+                "last_commit": "2026-09-05T07:15:21Z",
+                "open_issues": 3976,
                 "owner": "apache",
                 "repo": "beam",
-                "stars": 8658,
+                "stars": 8657,
                 "topics": [
                   "batch",
                   "beam",
@@ -907,7 +907,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T20:49:23.806Z",
+    "last_updated": "2026-09-05T20:27:35.026Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome HBase projects and resources.",
