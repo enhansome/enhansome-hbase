@@ -207,7 +207,7 @@
                     "open_issues": 678,
                     "owner": "vesoft-inc",
                     "repo": "nebula",
-                    "stars": 12377,
+                    "stars": 12378,
                     "topics": [
                       "big-data",
                       "cpp",
@@ -246,7 +246,7 @@
                     "open_issues": 370,
                     "owner": "apache",
                     "repo": "hugegraph",
-                    "stars": 3168,
+                    "stars": 3170,
                     "topics": [
                       "big-data",
                       "database",
@@ -493,7 +493,7 @@
                 "id": 20587599,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-05T20:23:43Z",
+                "last_commit": "2026-09-06T09:09:39Z",
                 "open_issues": 378,
                 "owner": "apache",
                 "repo": "flink",
@@ -521,11 +521,11 @@
                 "id": 50904245,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-05T07:15:21Z",
-                "open_issues": 3976,
+                "last_commit": "2026-09-06T17:43:59Z",
+                "open_issues": 3972,
                 "owner": "apache",
                 "repo": "beam",
-                "stars": 8657,
+                "stars": 8659,
                 "topics": [
                   "batch",
                   "beam",
@@ -907,7 +907,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T20:27:35.026Z",
+    "last_updated": "2026-09-06T20:28:55.793Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome HBase projects and resources.",
