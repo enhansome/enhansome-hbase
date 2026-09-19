@@ -246,7 +246,7 @@
                     "open_issues": 362,
                     "owner": "apache",
                     "repo": "hugegraph",
-                    "stars": 3184,
+                    "stars": 3183,
                     "topics": [
                       "big-data",
                       "database",
@@ -493,11 +493,11 @@
                 "id": 20587599,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-18T13:43:39Z",
-                "open_issues": 378,
+                "last_commit": "2026-09-19T03:51:42Z",
+                "open_issues": 380,
                 "owner": "apache",
                 "repo": "flink",
-                "stars": 26341,
+                "stars": 26342,
                 "topics": [
                   "big-data",
                   "flink",
@@ -521,11 +521,11 @@
                 "id": 50904245,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-18T19:17:34Z",
-                "open_issues": 3954,
+                "last_commit": "2026-09-19T12:28:07Z",
+                "open_issues": 3955,
                 "owner": "apache",
                 "repo": "beam",
-                "stars": 8668,
+                "stars": 8669,
                 "topics": [
                   "batch",
                   "beam",
@@ -907,7 +907,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T20:58:13.884Z",
+    "last_updated": "2026-09-19T20:47:46.198Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome HBase projects and resources.",
