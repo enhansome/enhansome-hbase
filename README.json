@@ -243,10 +243,10 @@
                     "language": "Java",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-20T07:35:28Z",
-                    "open_issues": 362,
+                    "open_issues": 365,
                     "owner": "apache",
                     "repo": "hugegraph",
-                    "stars": 3185,
+                    "stars": 3186,
                     "topics": [
                       "big-data",
                       "database",
@@ -493,11 +493,11 @@
                 "id": 20587599,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-20T19:09:46Z",
-                "open_issues": 386,
+                "last_commit": "2026-09-21T19:55:53Z",
+                "open_issues": 383,
                 "owner": "apache",
                 "repo": "flink",
-                "stars": 26348,
+                "stars": 26353,
                 "topics": [
                   "big-data",
                   "flink",
@@ -521,8 +521,8 @@
                 "id": 50904245,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-20T12:28:28Z",
-                "open_issues": 3956,
+                "last_commit": "2026-09-21T21:49:38Z",
+                "open_issues": 3952,
                 "owner": "apache",
                 "repo": "beam",
                 "stars": 8668,
@@ -700,7 +700,7 @@
                 "open_issues": 27,
                 "owner": "analysys",
                 "repo": "presto-hbase-connector",
-                "stars": 241,
+                "stars": 240,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:46:49.933Z"
@@ -907,7 +907,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T20:53:59.384Z",
+    "last_updated": "2026-09-21T22:02:01.916Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome HBase projects and resources.",
