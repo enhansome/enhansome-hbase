@@ -207,7 +207,7 @@
                     "open_issues": 685,
                     "owner": "vesoft-inc",
                     "repo": "nebula",
-                    "stars": 12405,
+                    "stars": 12406,
                     "topics": [
                       "big-data",
                       "cpp",
@@ -242,11 +242,11 @@
                     "id": 141376301,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-24T16:24:10Z",
-                    "open_issues": 371,
+                    "last_commit": "2026-09-25T16:48:02Z",
+                    "open_issues": 370,
                     "owner": "apache",
                     "repo": "hugegraph",
-                    "stars": 3188,
+                    "stars": 3189,
                     "topics": [
                       "big-data",
                       "database",
@@ -493,11 +493,11 @@
                 "id": 20587599,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-24T20:58:53Z",
-                "open_issues": 380,
+                "last_commit": "2026-09-25T17:44:57Z",
+                "open_issues": 375,
                 "owner": "apache",
                 "repo": "flink",
-                "stars": 26361,
+                "stars": 26367,
                 "topics": [
                   "big-data",
                   "flink",
@@ -521,11 +521,11 @@
                 "id": 50904245,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-24T21:24:51Z",
-                "open_issues": 3959,
+                "last_commit": "2026-09-25T21:37:48Z",
+                "open_issues": 3962,
                 "owner": "apache",
                 "repo": "beam",
-                "stars": 8671,
+                "stars": 8672,
                 "topics": [
                   "batch",
                   "beam",
@@ -907,7 +907,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T21:35:09.671Z",
+    "last_updated": "2026-09-25T21:39:24.092Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome HBase projects and resources.",
