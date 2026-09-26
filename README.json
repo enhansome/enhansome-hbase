@@ -60,7 +60,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-03-16T15:58:18Z",
-                "open_issues": 34,
+                "open_issues": 36,
                 "owner": "python-happybase",
                 "repo": "happybase",
                 "stars": 609,
@@ -204,10 +204,10 @@
                     "language": "C++",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-08T06:42:15Z",
-                    "open_issues": 685,
+                    "open_issues": 686,
                     "owner": "vesoft-inc",
                     "repo": "nebula",
-                    "stars": 12406,
+                    "stars": 12405,
                     "topics": [
                       "big-data",
                       "cpp",
@@ -243,10 +243,10 @@
                     "language": "Java",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-25T16:48:02Z",
-                    "open_issues": 370,
+                    "open_issues": 371,
                     "owner": "apache",
                     "repo": "hugegraph",
-                    "stars": 3189,
+                    "stars": 3188,
                     "topics": [
                       "big-data",
                       "database",
@@ -493,11 +493,11 @@
                 "id": 20587599,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-25T17:44:57Z",
-                "open_issues": 375,
+                "last_commit": "2026-09-26T15:18:33Z",
+                "open_issues": 379,
                 "owner": "apache",
                 "repo": "flink",
-                "stars": 26367,
+                "stars": 26368,
                 "topics": [
                   "big-data",
                   "flink",
@@ -521,11 +521,11 @@
                 "id": 50904245,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-25T21:37:48Z",
-                "open_issues": 3962,
+                "last_commit": "2026-09-26T12:28:37Z",
+                "open_issues": 3963,
                 "owner": "apache",
                 "repo": "beam",
-                "stars": 8672,
+                "stars": 8674,
                 "topics": [
                   "batch",
                   "beam",
@@ -631,7 +631,7 @@
                 "open_issues": 164,
                 "owner": "hortonworks-spark",
                 "repo": "shc",
-                "stars": 546,
+                "stars": 545,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:46:49.933Z"
@@ -907,7 +907,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T21:39:24.092Z",
+    "last_updated": "2026-09-26T21:15:50.786Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome HBase projects and resources.",
