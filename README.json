@@ -243,10 +243,10 @@
                     "language": "Java",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-25T16:48:02Z",
-                    "open_issues": 371,
+                    "open_issues": 375,
                     "owner": "apache",
                     "repo": "hugegraph",
-                    "stars": 3188,
+                    "stars": 3189,
                     "topics": [
                       "big-data",
                       "database",
@@ -493,11 +493,11 @@
                 "id": 20587599,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-26T15:18:33Z",
-                "open_issues": 379,
+                "last_commit": "2026-09-27T18:16:15Z",
+                "open_issues": 380,
                 "owner": "apache",
                 "repo": "flink",
-                "stars": 26368,
+                "stars": 26370,
                 "topics": [
                   "big-data",
                   "flink",
@@ -521,11 +521,11 @@
                 "id": 50904245,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-26T12:28:37Z",
-                "open_issues": 3963,
+                "last_commit": "2026-09-27T20:15:18Z",
+                "open_issues": 3969,
                 "owner": "apache",
                 "repo": "beam",
-                "stars": 8674,
+                "stars": 8677,
                 "topics": [
                   "batch",
                   "beam",
@@ -555,7 +555,7 @@
                 "open_issues": 36,
                 "owner": "apache",
                 "repo": "storm",
-                "stars": 6695,
+                "stars": 6696,
                 "topics": [
                   "apache",
                   "distributed",
@@ -907,7 +907,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T21:15:50.786Z",
+    "last_updated": "2026-09-27T21:25:28.005Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome HBase projects and resources.",
