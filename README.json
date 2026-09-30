@@ -207,7 +207,7 @@
                     "open_issues": 685,
                     "owner": "vesoft-inc",
                     "repo": "nebula",
-                    "stars": 12410,
+                    "stars": 12409,
                     "topics": [
                       "big-data",
                       "cpp",
@@ -242,11 +242,11 @@
                     "id": 141376301,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-29T05:28:09Z",
-                    "open_issues": 382,
+                    "last_commit": "2026-09-30T18:15:35Z",
+                    "open_issues": 381,
                     "owner": "apache",
                     "repo": "hugegraph",
-                    "stars": 3193,
+                    "stars": 3192,
                     "topics": [
                       "big-data",
                       "database",
@@ -493,11 +493,11 @@
                 "id": 20587599,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-29T20:19:38Z",
-                "open_issues": 385,
+                "last_commit": "2026-09-30T17:58:22Z",
+                "open_issues": 384,
                 "owner": "apache",
                 "repo": "flink",
-                "stars": 26375,
+                "stars": 26376,
                 "topics": [
                   "big-data",
                   "flink",
@@ -521,8 +521,8 @@
                 "id": 50904245,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-29T21:39:01Z",
-                "open_issues": 3927,
+                "last_commit": "2026-09-30T21:40:49Z",
+                "open_issues": 3904,
                 "owner": "apache",
                 "repo": "beam",
                 "stars": 8679,
@@ -907,7 +907,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T22:21:45.962Z",
+    "last_updated": "2026-09-30T22:21:38.440Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome HBase projects and resources.",
