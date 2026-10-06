@@ -207,7 +207,7 @@
                     "open_issues": 686,
                     "owner": "vesoft-inc",
                     "repo": "nebula",
-                    "stars": 12407,
+                    "stars": 12406,
                     "topics": [
                       "big-data",
                       "cpp",
@@ -242,8 +242,8 @@
                     "id": 141376301,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-06T09:54:21Z",
-                    "open_issues": 387,
+                    "last_commit": "2026-10-06T14:41:20Z",
+                    "open_issues": 385,
                     "owner": "apache",
                     "repo": "hugegraph",
                     "stars": 3192,
@@ -493,11 +493,11 @@
                 "id": 20587599,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-05T17:02:45Z",
-                "open_issues": 402,
+                "last_commit": "2026-10-06T17:19:34Z",
+                "open_issues": 400,
                 "owner": "apache",
                 "repo": "flink",
-                "stars": 26385,
+                "stars": 26386,
                 "topics": [
                   "big-data",
                   "flink",
@@ -521,11 +521,11 @@
                 "id": 50904245,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T09:41:12Z",
-                "open_issues": 3895,
+                "last_commit": "2026-10-06T22:40:03Z",
+                "open_issues": 3885,
                 "owner": "apache",
                 "repo": "beam",
-                "stars": 8678,
+                "stars": 8679,
                 "topics": [
                   "batch",
                   "beam",
@@ -907,7 +907,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:34:00.394Z",
+    "last_updated": "2026-10-06T22:41:20.907Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome HBase projects and resources.",
