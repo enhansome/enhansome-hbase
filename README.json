@@ -21,7 +21,7 @@
                 "open_issues": 49,
                 "owner": "tsuna",
                 "repo": "gohbase",
-                "stars": 759,
+                "stars": 760,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:46:49.933Z"
@@ -242,8 +242,8 @@
                     "id": 141376301,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-17T20:42:01Z",
-                    "open_issues": 378,
+                    "last_commit": "2026-10-18T13:37:40Z",
+                    "open_issues": 376,
                     "owner": "apache",
                     "repo": "hugegraph",
                     "stars": 3192,
@@ -493,11 +493,11 @@
                 "id": 20587599,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-17T19:44:00Z",
-                "open_issues": 401,
+                "last_commit": "2026-10-18T16:50:57Z",
+                "open_issues": 392,
                 "owner": "apache",
                 "repo": "flink",
-                "stars": 26413,
+                "stars": 26412,
                 "topics": [
                   "big-data",
                   "flink",
@@ -521,11 +521,11 @@
                 "id": 50904245,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-17T12:26:42Z",
-                "open_issues": 3873,
+                "last_commit": "2026-10-18T20:37:58Z",
+                "open_issues": 3875,
                 "owner": "apache",
                 "repo": "beam",
-                "stars": 8685,
+                "stars": 8686,
                 "topics": [
                   "batch",
                   "beam",
@@ -551,11 +551,11 @@
                 "id": 14135470,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-17T15:19:22Z",
-                "open_issues": 47,
+                "last_commit": "2026-10-18T19:07:32Z",
+                "open_issues": 45,
                 "owner": "apache",
                 "repo": "storm",
-                "stars": 6696,
+                "stars": 6697,
                 "topics": [
                   "apache",
                   "distributed",
@@ -907,7 +907,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T20:42:06.002Z",
+    "last_updated": "2026-10-18T20:52:15.313Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome HBase projects and resources.",
