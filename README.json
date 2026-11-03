@@ -207,7 +207,7 @@
                     "open_issues": 695,
                     "owner": "vesoft-inc",
                     "repo": "nebula",
-                    "stars": 12464,
+                    "stars": 12465,
                     "topics": [
                       "big-data",
                       "cpp",
@@ -243,10 +243,10 @@
                     "language": "Java",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-31T17:55:39Z",
-                    "open_issues": 380,
+                    "open_issues": 382,
                     "owner": "apache",
                     "repo": "hugegraph",
-                    "stars": 3196,
+                    "stars": 3197,
                     "topics": [
                       "big-data",
                       "database",
@@ -328,7 +328,7 @@
                     "open_issues": 0,
                     "owner": "kakao",
                     "repo": "actionbase",
-                    "stars": 229,
+                    "stars": 230,
                     "topics": [
                       "database",
                       "graphdb",
@@ -493,11 +493,11 @@
                 "id": 20587599,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-01T13:18:42Z",
-                "open_issues": 424,
+                "last_commit": "2026-11-02T23:07:38Z",
+                "open_issues": 430,
                 "owner": "apache",
                 "repo": "flink",
-                "stars": 26440,
+                "stars": 26444,
                 "topics": [
                   "big-data",
                   "flink",
@@ -521,11 +521,11 @@
                 "id": 50904245,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-01T19:07:19Z",
-                "open_issues": 3890,
+                "last_commit": "2026-11-03T00:39:40Z",
+                "open_issues": 3877,
                 "owner": "apache",
                 "repo": "beam",
-                "stars": 8704,
+                "stars": 8705,
                 "topics": [
                   "batch",
                   "beam",
@@ -907,7 +907,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T22:09:05.819Z",
+    "last_updated": "2026-11-03T01:02:57.180Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome HBase projects and resources.",
