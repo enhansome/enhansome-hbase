@@ -207,7 +207,7 @@
                     "open_issues": 695,
                     "owner": "vesoft-inc",
                     "repo": "nebula",
-                    "stars": 12467,
+                    "stars": 12468,
                     "topics": [
                       "big-data",
                       "cpp",
@@ -441,7 +441,7 @@
                     "open_issues": 21,
                     "owner": "apache",
                     "repo": "phoenix-omid",
-                    "stars": 93,
+                    "stars": 94,
                     "topics": [
                       "omid"
                     ]
@@ -493,11 +493,11 @@
                 "id": 20587599,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-10T23:16:27Z",
-                "open_issues": 419,
+                "last_commit": "2026-11-11T19:28:28Z",
+                "open_issues": 422,
                 "owner": "apache",
                 "repo": "flink",
-                "stars": 26463,
+                "stars": 26464,
                 "topics": [
                   "big-data",
                   "flink",
@@ -521,8 +521,8 @@
                 "id": 50904245,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-10T23:14:06Z",
-                "open_issues": 3645,
+                "last_commit": "2026-11-11T23:40:05Z",
+                "open_issues": 3654,
                 "owner": "apache",
                 "repo": "beam",
                 "stars": 8716,
@@ -551,11 +551,11 @@
                 "id": 14135470,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-10T13:46:31Z",
-                "open_issues": 35,
+                "last_commit": "2026-11-11T19:36:20Z",
+                "open_issues": 33,
                 "owner": "apache",
                 "repo": "storm",
-                "stars": 6702,
+                "stars": 6703,
                 "topics": [
                   "apache",
                   "distributed",
@@ -907,7 +907,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T23:28:48.066Z",
+    "last_updated": "2026-11-12T00:48:52.377Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome HBase projects and resources.",
