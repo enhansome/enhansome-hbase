@@ -63,7 +63,7 @@
                 "open_issues": 32,
                 "owner": "python-happybase",
                 "repo": "happybase",
-                "stars": 609,
+                "stars": 608,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:46:49.933Z"
@@ -242,7 +242,7 @@
                     "id": 141376301,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-08T06:00:11Z",
+                    "last_commit": "2026-11-12T13:32:41Z",
                     "open_issues": 380,
                     "owner": "apache",
                     "repo": "hugegraph",
@@ -493,11 +493,11 @@
                 "id": 20587599,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-11T19:28:28Z",
-                "open_issues": 422,
+                "last_commit": "2026-11-12T16:31:04Z",
+                "open_issues": 418,
                 "owner": "apache",
                 "repo": "flink",
-                "stars": 26464,
+                "stars": 26467,
                 "topics": [
                   "big-data",
                   "flink",
@@ -521,11 +521,11 @@
                 "id": 50904245,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-11T23:40:05Z",
-                "open_issues": 3654,
+                "last_commit": "2026-11-12T23:38:51Z",
+                "open_issues": 3655,
                 "owner": "apache",
                 "repo": "beam",
-                "stars": 8716,
+                "stars": 8717,
                 "topics": [
                   "batch",
                   "beam",
@@ -907,7 +907,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T00:48:52.377Z",
+    "last_updated": "2026-11-12T23:41:28.892Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome HBase projects and resources.",
