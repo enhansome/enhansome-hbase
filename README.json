@@ -207,7 +207,7 @@
                     "open_issues": 694,
                     "owner": "vesoft-inc",
                     "repo": "nebula",
-                    "stars": 12468,
+                    "stars": 12469,
                     "topics": [
                       "big-data",
                       "cpp",
@@ -246,7 +246,7 @@
                     "open_issues": 384,
                     "owner": "apache",
                     "repo": "hugegraph",
-                    "stars": 3209,
+                    "stars": 3208,
                     "topics": [
                       "big-data",
                       "database",
@@ -493,8 +493,8 @@
                 "id": 20587599,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-13T19:05:10Z",
-                "open_issues": 417,
+                "last_commit": "2026-11-15T15:39:03Z",
+                "open_issues": 428,
                 "owner": "apache",
                 "repo": "flink",
                 "stars": 26473,
@@ -521,8 +521,8 @@
                 "id": 50904245,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-14T17:40:19Z",
-                "open_issues": 3694,
+                "last_commit": "2026-11-15T20:07:57Z",
+                "open_issues": 3718,
                 "owner": "apache",
                 "repo": "beam",
                 "stars": 8718,
@@ -555,7 +555,7 @@
                 "open_issues": 34,
                 "owner": "apache",
                 "repo": "storm",
-                "stars": 6703,
+                "stars": 6702,
                 "topics": [
                   "apache",
                   "distributed",
@@ -672,7 +672,7 @@
                 "language": "Scala",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-05T11:27:36Z",
-                "open_issues": 12,
+                "open_issues": 14,
                 "owner": "apache",
                 "repo": "hbase-connectors",
                 "stars": 247,
@@ -907,7 +907,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T22:31:39.176Z",
+    "last_updated": "2026-11-15T22:56:18.935Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome HBase projects and resources.",
