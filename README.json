@@ -207,7 +207,7 @@
                     "open_issues": 694,
                     "owner": "vesoft-inc",
                     "repo": "nebula",
-                    "stars": 12473,
+                    "stars": 12474,
                     "topics": [
                       "big-data",
                       "cpp",
@@ -243,10 +243,10 @@
                     "language": "Java",
                     "license": "Apache-2.0",
                     "last_commit": "2026-11-19T11:47:49Z",
-                    "open_issues": 380,
+                    "open_issues": 383,
                     "owner": "apache",
                     "repo": "hugegraph",
-                    "stars": 3210,
+                    "stars": 3211,
                     "topics": [
                       "big-data",
                       "database",
@@ -493,11 +493,11 @@
                 "id": 20587599,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-19T18:44:58Z",
-                "open_issues": 444,
+                "last_commit": "2026-11-20T23:55:45Z",
+                "open_issues": 446,
                 "owner": "apache",
                 "repo": "flink",
-                "stars": 26482,
+                "stars": 26486,
                 "topics": [
                   "big-data",
                   "flink",
@@ -521,8 +521,8 @@
                 "id": 50904245,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-19T23:41:14Z",
-                "open_issues": 3702,
+                "last_commit": "2026-11-20T23:40:51Z",
+                "open_issues": 3741,
                 "owner": "apache",
                 "repo": "beam",
                 "stars": 8722,
@@ -552,7 +552,7 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-18T09:29:27Z",
-                "open_issues": 44,
+                "open_issues": 47,
                 "owner": "apache",
                 "repo": "storm",
                 "stars": 6701,
@@ -864,7 +864,7 @@
                 "open_issues": 10,
                 "owner": "NiceSystems",
                 "repo": "hrider",
-                "stars": 132,
+                "stars": 131,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:46:49.933Z"
@@ -907,7 +907,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T00:40:35.472Z",
+    "last_updated": "2026-11-21T00:01:24.908Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome HBase projects and resources.",
