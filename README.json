@@ -207,7 +207,7 @@
                     "open_issues": 701,
                     "owner": "vesoft-inc",
                     "repo": "nebula",
-                    "stars": 12473,
+                    "stars": 12476,
                     "topics": [
                       "big-data",
                       "cpp",
@@ -246,7 +246,7 @@
                     "open_issues": 383,
                     "owner": "apache",
                     "repo": "hugegraph",
-                    "stars": 3214,
+                    "stars": 3215,
                     "topics": [
                       "big-data",
                       "database",
@@ -493,8 +493,8 @@
                 "id": 20587599,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-25T23:02:32Z",
-                "open_issues": 462,
+                "last_commit": "2026-11-27T01:43:46Z",
+                "open_issues": 467,
                 "owner": "apache",
                 "repo": "flink",
                 "stars": 26499,
@@ -521,8 +521,8 @@
                 "id": 50904245,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-26T01:10:45Z",
-                "open_issues": 3714,
+                "last_commit": "2026-11-26T17:43:55Z",
+                "open_issues": 3721,
                 "owner": "apache",
                 "repo": "beam",
                 "stars": 8727,
@@ -552,7 +552,7 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-25T23:54:20Z",
-                "open_issues": 34,
+                "open_issues": 37,
                 "owner": "apache",
                 "repo": "storm",
                 "stars": 6705,
@@ -907,7 +907,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T01:48:35.226Z",
+    "last_updated": "2026-11-27T01:46:49.596Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome HBase projects and resources.",
